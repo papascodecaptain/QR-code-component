@@ -1,5 +1,3 @@
-### Screenshot
-
 ![](./images/completed-project.png)
 
 ### Links
